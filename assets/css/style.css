@@ -1,0 +1,82 @@
+Body {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: black;
+  color: white;
+}
+
+/* NavBar */
+.navbar-brand{
+  color: white;
+}
+.nav-link{
+    color: white;
+    
+}
+
+/* Carrusel */
+.carrusel-img-dim{
+    height: 100vh;
+}
+
+/*quienes-somos*/
+.ico{
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.264);
+}
+.justificado{
+    text-align: justify;
+}
+
+
+/*destacados*/
+.margen-card{
+    height: 350px;
+    background-color: rgba(0, 255, 255, 0.264);
+}
+.card-img-top{
+    height: 200px;
+}
+.card-body{
+    font-size: small;
+    color: white;
+}
+
+
+/*contacto*/
+.btn-enviar{
+    background-color:rgba(0, 255, 255, 0.264) ;
+    color: white; 
+}
+
+
+footer{
+    background-color:rgba(0, 255, 255, 0.264);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
+.github{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+.linkedin{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.twitter{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.facebook{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
