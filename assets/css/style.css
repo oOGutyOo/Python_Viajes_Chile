@@ -3,16 +3,16 @@ Body {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 /* NavBar */
 .navbar-brand{
-  color: white;
+  color: black;
 }
 .nav-link{
-    color: white;
+    color: black;
     
 }
 
@@ -24,7 +24,7 @@ Body {
 /*quienes-somos*/
 .ico{
     text-align: center;
-    background-color: rgba(0, 255, 255, 0.53);
+    background-color: rgba(179, 255, 0, 0.748);
     font-size: 30px;
 }
 .justificado{
@@ -35,49 +35,49 @@ Body {
 /*destacados*/
 .margen-card{
     height: 350px;
-    background-color: rgba(0, 255, 255, 0.53);
+    background-color: rgba(179, 255, 0, 0.748);
 }
 .card-img-top{
     height: 200px;
 }
 .card-body{
     font-size: small;
-    color: white;
+    color: black;
 }
 
 
 /*contacto*/
 .btn-enviar{
-    background-color:rgba(0, 255, 255, 0.53);
-    color: white; 
+    background-color:rgba(179, 255, 0, 0.748);
+    color: black; 
 }
 
 
 footer{
-    background-color:rgba(0, 255, 255, 0.53);
-    color: white;
+    background-color:rgba(179, 255, 0, 0.748);
+    color: black;
     text-align: center;
     padding: 30px;
     font-size: 30px;
 }
 .github{
-    color: white;
+    color: black;
     text-decoration: none;
     margin-right: 10px;
     
 }
 .linkedin{
-    color: white;
+    color: black;
     text-decoration: none;
     margin-right: 10px;
 }
 .twitter{
-    color: white;
+    color: black;
     text-decoration: none;
     margin-right: 10px;
 }
 .facebook{
-    color: white;
+    color: black;
     text-decoration: none;
     margin-right: 10px;
 }

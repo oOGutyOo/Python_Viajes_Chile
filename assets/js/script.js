@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $("#enviarCorreo").click(function () {
-        alert("El correo fue enviado correctamente...");
+        alert("Tu mensaje ha sido enviado con éxito!");
     });
 
 });
