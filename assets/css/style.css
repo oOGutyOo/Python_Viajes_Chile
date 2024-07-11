@@ -24,7 +24,7 @@ Body {
 /*quienes-somos*/
 .ico{
     text-align: center;
-    background-color: rgba(0, 255, 255, 0.264);
+    background-color: rgba(0, 255, 255, 0.53);
 }
 .justificado{
     text-align: justify;
@@ -34,7 +34,7 @@ Body {
 /*destacados*/
 .margen-card{
     height: 350px;
-    background-color: rgba(0, 255, 255, 0.264);
+    background-color: rgba(0, 255, 255, 0.53);
 }
 .card-img-top{
     height: 200px;
@@ -47,13 +47,13 @@ Body {
 
 /*contacto*/
 .btn-enviar{
-    background-color:rgba(0, 255, 255, 0.264) ;
+    background-color:rgba(0, 255, 255, 0.53);
     color: white; 
 }
 
 
 footer{
-    background-color:rgba(0, 255, 255, 0.264);
+    background-color:rgba(0, 255, 255, 0.53);
     color: white;
     text-align: center;
     padding: 30px;
